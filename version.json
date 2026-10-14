@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.10.14.1",
+  "latest_version": "2026.10.14.2",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.10.14.1/singyu_v1.exe",
-  "notice": "사용자 이름 필수 입력: 이름을 저장해야 사용 가능합니다. 신규급수 전용 사용기록·산출서 자동 업로드. 담당자가 연결승인 시트에서 PC를 승인해주세요.",
-  "sha256": "0388c2bf4d55dfe66711317316a9669c9a806b1d56cd8c3e7a61cc499b0e49b2",
-  "size": 32097651
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.10.14.2/singyu_v2026.10.14.2.exe",
+  "notice": "사용자명 화면을 간소화했습니다.",
+  "sha256": "d3229ad61abe175965c4a84a0bf53e698a33c1b8c02e23ec67ddd05349533d72",
+  "size": 32094762
 }
