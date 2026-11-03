@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.03.4",
+  "latest_version": "2026.11.03.5",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.4/singyu_v2026.11.03.4.exe",
-  "notice": "공사노트 DB 기준 입력 명칭·단위 통일, 접합 조건 및 STS엘보 나사식접합 보완",
-  "sha256": "54d81c04702e9847029a34cc5cda4b8e3c38cb3739943a1d94858594d7b17fff",
-  "size": 32928463
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.5/singyu_v2026.11.03.5.exe",
+  "notice": "추가 DB 자재 우선 표시 및 표기 차이·중복 선택 보완",
+  "sha256": "46d9bc00f4bbe9270f6696d15252c4c8f036cdde5137e08afbdc9f9a2c47b215",
+  "size": 32929467
 }
