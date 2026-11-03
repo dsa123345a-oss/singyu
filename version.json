@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.03.5",
+  "latest_version": "2026.11.03.6",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.5/singyu_v2026.11.03.5.exe",
-  "notice": "추가 DB 자재 우선 표시 및 표기 차이·중복 선택 보완",
-  "sha256": "46d9bc00f4bbe9270f6696d15252c4c8f036cdde5137e08afbdc9f9a2c47b215",
-  "size": 32929467
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.6/singyu_v2026.11.03.6.exe",
+  "notice": "새들분수전 범위품 연결 및 신규급수 도면 중심 연결 보완",
+  "sha256": "2081a5121865bd3b4e56df27d214eec2eb70a71254412565b681b71719787e57",
+  "size": 32930251
 }
