@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.03.6",
+  "latest_version": "2026.11.03.7",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.6/singyu_v2026.11.03.6.exe",
-  "notice": "새들분수전 범위품 연결 및 신규급수 도면 중심 연결 보완",
-  "sha256": "2081a5121865bd3b4e56df27d214eec2eb70a71254412565b681b71719787e57",
-  "size": 32930251
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.7/singyu_v2026.11.03.7.exe",
+  "notice": "도면 편집·되살리기와 자재대 연동 오류 수정",
+  "sha256": "5a9891d4776dfceed440f2dfb5d1cbd64d4a7030224eb6f365fb862d33eb7311",
+  "size": 32936873
 }
