@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.10.28.1",
+  "latest_version": "2026.11.03.1",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.10.28.1/singyu_v2026.10.28.1.exe",
-  "notice": "회사망 연결 안정화",
-  "sha256": "3b62abd6ac2ed9d28c4e0874c41e54c184986da111144e2e4a4d9bf159842d85",
-  "size": 32096197
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.1/singyu_v2026.11.03.1.exe",
+  "notice": "자재 59종·일위 연결 정비, 공사노트 DB 연동 및 관매달기 수량 보완",
+  "sha256": "e7a6b09d1b8068e9d0c610a5db878a07c9c9427023d2dfbb0cbad3152dc8df75",
+  "size": 32878782
 }
