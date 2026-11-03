@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.03.1",
+  "latest_version": "2026.11.03.4",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.1/singyu_v2026.11.03.1.exe",
-  "notice": "자재 59종·일위 연결 정비, 공사노트 DB 연동 및 관매달기 수량 보완",
-  "sha256": "e7a6b09d1b8068e9d0c610a5db878a07c9c9427023d2dfbb0cbad3152dc8df75",
-  "size": 32878782
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.4/singyu_v2026.11.03.4.exe",
+  "notice": "공사노트 DB 기준 입력 명칭·단위 통일, 접합 조건 및 STS엘보 나사식접합 보완",
+  "sha256": "54d81c04702e9847029a34cc5cda4b8e3c38cb3739943a1d94858594d7b17fff",
+  "size": 32928463
 }
