@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.03.7",
+  "latest_version": "2026.11.05.2",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.03.7/singyu_v2026.11.03.7.exe",
-  "notice": "도면 편집·되살리기와 자재대 연동 오류 수정",
-  "sha256": "5a9891d4776dfceed440f2dfb5d1cbd64d4a7030224eb6f365fb862d33eb7311",
-  "size": 32936873
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.05.2/singyu_v2026.11.05.2.exe",
+  "notice": "수량산출서 생성기를 공사노트 연동 전인 2026년 10월 28일판으로 복원합니다.",
+  "sha256": "e8adf7b28ba8656ab0783a6d30807bd4d0c726f1fdf83d175ca00a42285ee901",
+  "size": 32096197
 }
