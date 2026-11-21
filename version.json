@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.05.3",
+  "latest_version": "2026.11.21",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.05.3/singyu_v2026.11.05.3.exe",
-  "notice": "수량산출서를 DB 품목 선택창 없이 저장합니다. 예전 DB 선택 정보가 남은 자재·일위의 엑셀 저장 오류를 수정했고 다크 모드에서 소켓 접합 조건 버튼이 잘 보이도록 개선했습니다. 단가 연결은 공사노트에서 진행합니다.",
-  "sha256": "13140bebce062cbe3da2ede5a3d4499380cdbed459514d01476bf5fcddbb4449",
-  "size": 32937249
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.21/singyu_v2026.11.21.exe",
+  "notice": "실행시간 중복 집계 수정, 작업시간 직접 기록, 접속 신호 개선",
+  "sha256": "b0accbc61df3db165525a875ca8023ad2b77e6479f6b6679207f5b4a9bce7d3c",
+  "size": 32939350
 }
