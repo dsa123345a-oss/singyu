@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.21",
+  "latest_version": "2026.11.25.2",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.21/singyu_v2026.11.21.exe",
-  "notice": "실행시간 중복 집계 수정, 작업시간 직접 기록, 접속 신호 개선",
-  "sha256": "b0accbc61df3db165525a875ca8023ad2b77e6479f6b6679207f5b4a9bce7d3c",
-  "size": 32939350
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.25.2/singyu_v2026.11.25.2.exe",
+  "notice": "기능 개선 및 안정화",
+  "sha256": "c7d3b5bd920367509ea358aaaaa583a2b691a0605840fd544cf487bb05d67f79",
+  "size": 32952423
 }
