@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.11.25.3",
+  "latest_version": "2026.11.25.4",
   "min_version": "2026.08.28",
-  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.25.3/singyu_v2026.11.25.3.exe",
+  "download_url": "https://github.com/dsa123345a-oss/singyu/releases/download/v2026.11.25.4/singyu_v2026.11.25.4.exe",
   "notice": "기능 개선 및 안정화",
-  "sha256": "58ceca8c952627450a81179d9003cab33578fc35ca06c0bf18ef2d69a2ae72a1",
-  "size": 32951575
+  "sha256": "a19ae85033ef0d108146baf7fe4da4d330862a73ffc971511d7ebbbbdf3df16c",
+  "size": 32952994
 }
